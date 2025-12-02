@@ -1,3 +1,6 @@
+# Configuration graphique pour PyCharm
+options(device = "X11")  # Pour afficher les graphiques dans une fenêtre X11 au lieu de les télécharger
+
 # Exercice I - Classification par k-means (nuées dynamiques)
 
 # 1) Création des données
